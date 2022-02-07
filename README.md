@@ -11,4 +11,6 @@
 ✔  React        https://pt-br.reactjs.org/
 ✔  React Router https://reactrouter.com/
 ✔  React Icon   https://react-icons.github.io/react-icons/
+✔  Axios        https://www.javatpoint.com/react-axios
+✔  API          https://dev.bitly.com/docs/getting-started/introduction
 
