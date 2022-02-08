@@ -26,7 +26,7 @@ const Home = () => {
        setLink('');
 
     }catch{
-      alert('DEU MERDA!')
+      alert('PREENCHA O CAMPO VAZIO!')
       setLink('');
     }
   }
